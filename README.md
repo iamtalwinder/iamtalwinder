@@ -9,7 +9,7 @@
 
 </details>
 
-<details> 
+<details open> 
  <summary>🤖 <b>My programming stats</b>: </summary>
 <br>
 
