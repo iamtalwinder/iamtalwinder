@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**iamtalwinder/iamtalwinder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src="https://github-readme-stats.vercel.app/api?username=iamtalwinder&show_icons=true&theme=radical" />
+</p>
 
-Here are some ideas to get you started:
+</details>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<details> 
+ <summary>🤖 <b>My programming stats</b>: </summary>
+<br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+</details>
