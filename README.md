@@ -32,6 +32,8 @@
    <img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
 </p>
 
+<br />
+
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
@@ -40,6 +42,8 @@
 </p>
 
 </details>
+
+<br />
 
 <details open> 
  <summary>🤖 <b>My programming stats</b>: </summary>
