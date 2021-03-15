@@ -1,4 +1,7 @@
-### Hi 👋 my name is Talwinder Singh. I'm a self-taught web and mobile developer.
+
+<h2 align="center">
+Hi 👋 my name is Talwinder Singh. I'm a self-taught web and mobile developer.
+</h2>
 
 <br />
 
