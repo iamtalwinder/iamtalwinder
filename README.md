@@ -11,23 +11,23 @@
 
    <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 
-   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-plain.svg" alt="css" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/typescript/typescript-plain.svg" alt="typescript" width="40" height="40"/>
 
    <img src="https://github.com/devicons/devicon/raw/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 
-   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="react" width="40" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="nextjs" width="40" height="40"/>
 
-   <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" alt="react" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/raw/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/>
 
-  <img src="https://graphql.org/img/logo.svg" alt="java" width="40" height="40"/>
+  <img src="https://graphql.org/img/logo.svg" alt="graphql" width="40" height="40"/>
    
-   <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" alt="css" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/raw/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original.svg" alt="css" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original.svg" alt="express" width="40" height="40"/>
 
    <img src="https://github.com/devicons/devicon/raw/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
 
-   <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+   <img src="https://github.com/devicons/devicon/raw/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
    
    <img src="https://github.com/devicons/devicon/raw/master/icons/heroku/heroku-original.svg" alt="heroku" width="40" height="40"/>
 </p>
