@@ -104,10 +104,6 @@ HTML                     2 repos             ██░░░░░░░░░�
 ```
 
 
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/iamtalwinder/iamtalwinder/main/charts/bar_graph.png) 
-
 
 <!--END_SECTION:waka-->
 
