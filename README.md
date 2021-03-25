@@ -53,7 +53,7 @@ Hi 👋 my name is Talwinder Singh. I'm a self-taught web and mobile developer.
 <br>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-408997%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-360257%20lines%20of%20code-blue)
 
 **I'm an Early 🐤** 
 
@@ -100,7 +100,7 @@ Windows                  30 mins             ██░░░░░░░░░�
 JavaScript               17 repos            ███████████████████░░░░░░   77.27% 
 CSS                      2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
 HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
+TypeScript               1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
